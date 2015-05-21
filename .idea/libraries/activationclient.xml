@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="activationclient">
+    <CLASSES>
+      <root url="file:///Applications/MATLAB_R2015a.app/java/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///Applications/MATLAB_R2015a.app/java/jar" recursive="false" />
+  </library>
+</component>

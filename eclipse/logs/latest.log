@@ -1,0 +1,83 @@
+[09:24:58] [Client thread/INFO]: Setting user: Player311
+[09:25:02] [Client thread/INFO]: LWJGL Version: 2.9.2
+[09:25:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:matlablistener
+[09:25:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:25:10] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[09:25:10] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:25:10] [Thread-8/INFO]: OpenAL initialized.
+[09:25:10] [Sound Library Loader/INFO]: Sound engine started
+[09:25:14] [Client thread/INFO]: Created: 512x512 textures-atlas
+[09:25:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:matlablistener
+[09:25:16] [Client thread/INFO]: SoundSystem shutting down...
+[09:25:16] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:25:16] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:25:17] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[09:25:17] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:25:17] [Thread-10/INFO]: OpenAL initialized.
+[09:25:17] [Sound Library Loader/INFO]: Sound engine started
+[09:25:19] [Client thread/INFO]: Created: 512x512 textures-atlas
+[09:25:31] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[09:25:31] [Server thread/INFO]: Generating keypair
+[09:25:31] [Server thread/INFO]: Preparing start region for level 0
+[09:25:32] [Server thread/INFO]: Preparing spawn area: 34%
+[09:25:34] [Server thread/INFO]: Changing view distance to 12, from 10
+[09:25:34] [Server thread/INFO]: Player311[local:E:7b9642c6] logged in with entity id 242 at (27.923659961628587, 68.0, 242.24491367924364)
+[09:25:34] [Server thread/INFO]: Player311 joined the game
+[09:25:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2948ms behind, skipping 58 tick(s)
+[09:25:57] [Server thread/INFO]: Saving and pausing game...
+[09:25:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:25:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:25:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:26:49] [pool-4-thread-1/INFO]: Block placed
+[09:26:49] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:50] [pool-4-thread-1/INFO]: Block placed
+[09:26:50] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:51] [pool-4-thread-1/INFO]: Block placed
+[09:26:51] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:52] [pool-4-thread-1/INFO]: Block placed
+[09:26:52] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:53] [pool-4-thread-1/INFO]: Block placed
+[09:26:53] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:54] [pool-4-thread-1/INFO]: Block placed
+[09:26:54] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:55] [pool-4-thread-1/INFO]: Block placed
+[09:26:55] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:56] [pool-4-thread-1/INFO]: Block placed
+[09:26:57] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:57] [pool-4-thread-1/INFO]: Block placed
+[09:26:58] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:26:59] [pool-4-thread-1/INFO]: Block placed
+[09:26:59] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:00] [pool-4-thread-1/INFO]: Block placed
+[09:27:00] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:01] [pool-4-thread-1/INFO]: Block placed
+[09:27:01] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:02] [pool-4-thread-1/INFO]: Block placed
+[09:27:02] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:03] [pool-4-thread-1/INFO]: Block placed
+[09:27:03] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:04] [pool-4-thread-1/INFO]: Block placed
+[09:27:04] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:05] [pool-4-thread-1/INFO]: Block placed
+[09:27:05] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:06] [pool-4-thread-1/INFO]: Block placed
+[09:27:06] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:07] [pool-4-thread-1/INFO]: Block placed
+[09:27:07] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:08] [pool-4-thread-1/INFO]: Block placed
+[09:27:08] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:09] [pool-4-thread-1/INFO]: Block placed
+[09:27:09] [Client thread/INFO]: [CHAT] [Server: Block placed]
+[09:27:28] [Server thread/INFO]: Saving and pausing game...
+[09:27:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:27:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:27:28] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:27:32] [Client thread/INFO]: Stopping!
+[09:27:32] [Client thread/INFO]: SoundSystem shutting down...
+[09:27:32] [Server thread/INFO]: Stopping server
+[09:27:32] [Server thread/INFO]: Saving players
+[09:27:32] [Server thread/INFO]: Saving worlds
+[09:27:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:27:32] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:27:32] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:27:32] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
