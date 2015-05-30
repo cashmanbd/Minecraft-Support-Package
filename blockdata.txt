@@ -1,0 +1,210 @@
+minecraft:air	Air
+Stone.png	1	1	minecraft:stone	Stone S B
+Grass.png	2	2	minecraft:grass	Grass Block
+Dirt.png	3	3	minecraft:dirt	Dirt S B
+Cobblestone.png	4	4	minecraft:cobblestone	Cobblestone
+Oak Wood Planks.png	5	5	minecraft:planks	Wood Planks S B
+Sapling.png	6	6	minecraft:sapling	Sapling S B
+Bedrock.png	7	7	minecraft:bedrock	Bedrock
+Water.png	8	8	minecraft:flowing_water	Water S
+Water.png	9	9	minecraft:water	Stationary Water S
+Lava.png	10	A	minecraft:flowing_lava	Lava S
+Lava.png	11	B	minecraft:lava	Stationary Lava S
+Sand.png	12	C	minecraft:sand	Sand S B
+Gravel.png	13	D	minecraft:gravel	Gravel
+Gold Ore.png	14	E	minecraft:gold_ore	Gold Ore
+Iron Ore.png	15	F	minecraft:iron_ore	Iron Ore 
+Icon	Dec	Hex	Name	Block
+Coal Ore.png	16	10	minecraft:coal_ore	Coal Ore
+Wood.png	17	11	minecraft:log	Wood S B
+Leaves.png	18	12	minecraft:leaves	Leaves S B
+Sponge.png	19	13	minecraft:sponge	Sponge S B
+Glass.png	20	14	minecraft:glass	Glass
+Lapis Lazuli Ore.png	21	15	minecraft:lapis_ore	Lapis Lazuli Ore
+Lapis Lazuli Block.png	22	16	minecraft:lapis_block	Lapis Lazuli Block
+Dispenser.png	23	17	minecraft:dispenser	Dispenser S E
+Sandstone.png	24	18	minecraft:sandstone	Sandstone S B
+Note Block.png	25	19	minecraft:noteblock	Note Block E
+Bed.png	26	1A	minecraft:bed	Bed I S
+Powered Rail Off.png	27	1B	minecraft:golden_rail	Powered Rail S
+Detector Rail.png	28	1C	minecraft:detector_rail	Detector Rail S
+Sticky Piston.png	29	1D	minecraft:sticky_piston	Sticky Piston S
+WebBlock.png	30	1E	minecraft:web	Cobweb
+Tall Grass.png	31	1F	minecraft:tallgrass	Grass S B 
+Icon	Dec	Hex	Name	Block
+Dead Bush.png	32	20	minecraft:deadbush	Dead Bush
+Piston.png	33	21	minecraft:piston	Piston S
+Block 34.png	34	22	minecraft:piston_head	Piston Head S
+White Wool.png	35	23	minecraft:wool	Wool S B
+36	24	minecraft:piston_extension	Block moved by Piston E
+Dandelion.png	37	25	minecraft:yellow_flower	Dandelion
+Poppy.png	38	26	minecraft:red_flower	Poppy S B
+Brown Mushroom.png	39	27	minecraft:brown_mushroom	Brown Mushroom
+Red Mushroom.png	40	28	minecraft:red_mushroom	Red Mushroom
+Block of Gold.png	41	29	minecraft:gold_block	Block of Gold
+Block of Iron.png	42	2A	minecraft:iron_block	Block of Iron
+Double Stone Slab.png	43	2B	minecraft:double_stone_slab	Double Stone Slab S B
+Stone Slab.png	44	2C	minecraft:stone_slab	Stone Slab S B
+Bricks.png	45	2D	minecraft:brick_block	Bricks
+TNT.png	46	2E	minecraft:tnt	TNT
+Bookshelf.png	47	2F	minecraft:bookshelf	Bookshelf 
+Icon	Dec	Hex	Name	Block
+Moss Stone.png	48	30	minecraft:mossy_cobblestone	Moss Stone
+Obsidian.png	49	31	minecraft:obsidian	Obsidian
+Torch.png	50	32	minecraft:torch	Torch S
+Fire.png	51	33	minecraft:fire	Fire S
+Monster Spawner.png	52	34	minecraft:mob_spawner	Monster Spawner E
+Oak Wood Stairs.png	53	35	minecraft:oak_stairs	Oak Wood Stairs S
+Chest.png	54	36	minecraft:chest	Chest S E
+Redstone (Wire,Inventory).png	55	37	minecraft:redstone_wire	Redstone Wire I S
+Diamond Ore.png	56	38	minecraft:diamond_ore	Diamond Ore
+Block of Diamond.png	57	39	minecraft:diamond_block	Block of Diamond
+Crafting Table.png	58	3A	minecraft:crafting_table	Crafting Table
+Crops.png	59	3B	minecraft:wheat	Wheat I S
+Farmland.png	60	3C	minecraft:farmland	Farmland S
+Furnace.png	61	3D	minecraft:furnace	Furnace S E
+Furnace (Active).png	62	3E	minecraft:lit_furnace	Burning Furnace S E
+Sign.png	63	3F	minecraft:standing_sign	Standing Sign I S E 
+Icon	Dec	Hex	Name	Block
+Wooden Door.png	64	40	minecraft:wooden_door	Oak Door I S
+Ladder.png	65	41	minecraft:ladder	Ladder S
+Rails.png	66	42	minecraft:rail	Rail S
+Cobblestone Stairs.png	67	43	minecraft:stone_stairs	Cobblestone Stairs S
+Wall Sign.png	68	44	minecraft:wall_sign	Wall Sign I S E
+Lever.png	69	45	minecraft:lever	Lever S
+Stone Pressure Plate.png	70	46	minecraft:stone_pressure_plate	Stone Pressure Plate S
+Iron Door.png	71	47	minecraft:iron_door	Iron Door I S
+Wooden Pressure Plate.png	72	48	minecraft:wooden_pressure_plate	Wooden Pressure Plate S
+Redstone Ore.png	73	49	minecraft:redstone_ore	Redstone Ore
+Redstone Ore.png	74	4A	minecraft:lit_redstone_ore	Glowing Redstone Ore
+Redstone (Torch, Inactive).png	75	4B	minecraft:unlit_redstone_torch	Redstone Torch (inactive) S
+Redstone (Torch, Active).png	76	4C	minecraft:redstone_torch	Redstone Torch (active) S
+Stone Button.png	77	4D	minecraft:stone_button	Stone Button S
+Snow.png	78	4E	minecraft:snow_layer	Snow (layer) S B
+Ice.png	79	4F	minecraft:ice	Ice 
+Icon	Dec	Hex	Name	Block
+Snow (Block).png	80	50	minecraft:snow	Snow
+Cactus.png	81	51	minecraft:cactus	Cactus S
+Clay Block.png	82	52	minecraft:clay	Clay
+Sugar Canes.png	83	53	minecraft:reeds	Sugar Cane I S
+Jukebox.png	84	54	minecraft:jukebox	Jukebox S E
+Fence.png	85	55	minecraft:fence	Fence
+Pumpkin.png	86	56	minecraft:pumpkin	Pumpkin S
+Netherrack.png	87	57	minecraft:netherrack	Netherrack
+Soul Sand.png	88	58	minecraft:soul_sand	Soul Sand
+Glowstone.png	89	59	minecraft:glowstone	Glowstone
+Portal.png	90	5A	minecraft:portal	Nether Portal
+Jack o'Lantern.png	91	5B	minecraft:lit_pumpkin	Jack o'Lantern S
+Cake.png	92	5C	minecraft:cake	Cake I S
+Redstone (Repeater, Inactive).png	93	5D	minecraft:unpowered_repeater	Redstone Repeater (inactive) I S
+Redstone (Repeater, Active).png	94	5E	minecraft:powered_repeater	Redstone Repeater (active) I S
+White Stained Glass.png	95	5F	minecraft:stained_glass	Stained Glass S B 
+Icon	Dec	Hex	Name	Block
+Trapdoor.png	96	60	minecraft:trapdoor	Trapdoor S
+Stone.png	97	61	minecraft:monster_egg	Monster Egg S B
+Stone Brick.png	98	62	minecraft:stonebrick	Stone Bricks S B
+BrownMushroomCap.png	99	63	minecraft:brown_mushroom_block	Brown Mushroom (block) S
+RedMushroomCap.png	100	64	minecraft:red_mushroom_block	Red Mushroom (block) S
+Iron Bars.png	101	65	minecraft:iron_bars	Iron Bars
+Glass Pane.png	102	66	minecraft:glass_pane	Glass Pane
+Melon (Block).png	103	67	minecraft:melon_block	Melon
+Seed Stem.png	104	68	minecraft:pumpkin_stem	Pumpkin Stem S
+Seed Stem.png	105	69	minecraft:melon_stem	Melon Stem S
+Vine.png	106	6A	minecraft:vine	Vines S
+Fence Gate (Closed).png	107	6B	minecraft:fence_gate	Fence Gate S
+Brick Stairs.png	108	6C	minecraft:brick_stairs	Brick Stairs S
+Stone Brick Stairs.png	109	6D	minecraft:stone_brick_stairs	Stone Brick Stairs S
+Mycelium.png	110	6E	minecraft:mycelium	Mycelium
+Lily Pad.png	111	6F	minecraft:waterlily	Lily Pad 
+Icon	Dec	Hex	Name	Block
+Nether Brick.png	112	70	minecraft:nether_brick	Nether Brick
+Nether Brick Fence.png	113	71	minecraft:nether_brick_fence	Nether Brick Fence
+Nether Brick Stairs.png	114	72	minecraft:nether_brick_stairs	Nether Brick Stairs S
+Nether Wart.png	115	73	minecraft:nether_wart	Nether Wart I S
+Enchantment Table.png	116	74	minecraft:enchanting_table	Enchantment Table E
+Brewing Stand.png	117	75	minecraft:brewing_stand	Brewing Stand I S E
+Cauldron.png	118	76	minecraft:cauldron	Cauldron I S
+End Portal.png	119	77	minecraft:end_portal	End Portal E
+End Portal Frame.png	120	78	minecraft:end_portal_frame	End Portal Block S
+End Stone.png	121	79	minecraft:end_stone	End Stone
+Dragon Egg.png	122	7A	minecraft:dragon_egg	Dragon Egg
+Redstone Lamp.png	123	7B	minecraft:redstone_lamp	Redstone Lamp (inactive)
+Redstone Lamp (Active).png	124	7C	minecraft:lit_redstone_lamp	Redstone Lamp (active)
+Oak Wood Planks.png	125	7D	minecraft:double_wooden_slab	Double Wooden Slab S B
+Oak-Wood Slab.png	126	7E	minecraft:wooden_slab	Wooden Slab S B
+Cocoa Plant.png	127	7F	minecraft:cocoa	Cocoa I S 
+Icon	Dec	Hex	Name	Block
+Sandstone Stairs.png	128	80	minecraft:sandstone_stairs	Sandstone Stairs S
+Emerald Ore.png	129	81	minecraft:emerald_ore	Emerald Ore
+Ender Chest.png	130	82	minecraft:ender_chest	Ender Chest S E
+Tripwire Hook.png	131	83	minecraft:tripwire_hook	Tripwire Hook S
+Tripwire.png	132	84	minecraft:tripwire	Tripwire I S
+Block of Emerald.png	133	85	minecraft:emerald_block	Block of Emerald
+Spruce Wood Stairs.png	134	86	minecraft:spruce_stairs	Spruce Wood Stairs S
+Birch Wood Stairs.png	135	87	minecraft:birch_stairs	Birch Wood Stairs S
+Jungle Wood Stairs.png	136	88	minecraft:jungle_stairs	Jungle Wood Stairs S
+Command Block.png	137	89	minecraft:command_block	Command Block E
+Beacon Block.png	138	8A	minecraft:beacon	Beacon E
+Cobblestone Wall.png	139	8B	minecraft:cobblestone_wall	Cobblestone Wall S B
+Flower Pot.png	140	8C	minecraft:flower_pot	Flower Pot I S E
+Carrot (Block).png	141	8D	minecraft:carrots	Carrot I S
+Potatoes (Block).png	142	8E	minecraft:potatoes	Potato I S
+Wooden Button.png	143	8F	minecraft:wooden_button	Wooden Button S 
+Icon	Dec	Hex	Name	Block
+Skeleton Skull.png	144	90	minecraft:skull	Mob head I S E
+Anvil.png	145	91	minecraft:anvil	Anvil S B
+Trapped Chest.png	146	92	minecraft:trapped_chest	Trapped Chest S E
+Weighted Pressure Plate (Light).png	147	93	minecraft:light_weighted_pressure_plate	Weighted Pressure Plate (Light) S
+Weighted Pressure Plate (Heavy).png	148	94	minecraft:heavy_weighted_pressure_plate	Weighted Pressure Plate (Heavy) S
+Redstone Comparator (inactive).png	149	95	minecraft:unpowered_comparator	Redstone Comparator I S
+Redstone Comparator (active).png	150	96	minecraft:powered_comparator	Redstone Comparator (deprecated) S
+Daylight Sensor.png	151	97	minecraft:daylight_detector	Daylight Sensor E
+Block of Redstone.png	152	98	minecraft:redstone_block	Block of Redstone
+Nether Quartz Ore.png	153	99	minecraft:quartz_ore	Nether Quartz Ore
+Hopper.png	154	9A	minecraft:hopper	Hopper S E
+Block of Quartz.png	155	9B	minecraft:quartz_block	Block of Quartz S B
+Quartz Stairs.png	156	9C	minecraft:quartz_stairs	Quartz Stairs S
+Activator Rail.png	157	9D	minecraft:activator_rail	Activator Rail S
+Dropper.png	158	9E	minecraft:dropper	Dropper S E
+White Stained Clay.png	159	9F	minecraft:stained_hardened_clay	Stained Clay S B 
+Icon	Dec	Hex	Name	Block
+White Stained Glass Pane.png	160	A0	minecraft:stained_glass_pane	Stained Glass Pane S B
+Leaves.png	161	A1	minecraft:leaves2	Leaves (Acacia/Dark Oak) S B
+Acacia Wood.png	162	A2	minecraft:log2	Wood (Acacia/Dark Oak) S B
+Acacia Wood Stairs.png	163	A3	minecraft:acacia_stairs	Acacia Wood Stairs S
+Dark Oak Wood Stairs.png	164	A4	minecraft:dark_oak_stairs	Dark Oak Wood Stairs S
+Slime Block.png	165	A5	minecraft:slime	Slime Block
+Barrier.png	166	A6	minecraft:barrier	Barrier
+Iron Trapdoor.png	167	A7	minecraft:iron_trapdoor	Iron Trapdoor S
+Prismarine.png	168	A8	minecraft:prismarine	Prismarine S B
+Sea Lantern.png	169	A9	minecraft:sea_lantern	Sea Lantern
+Hay Bale.png	170	AA	minecraft:hay_block	Hay Bale S
+White Carpet.png	171	AB	minecraft:carpet	Carpet S B
+Hardened Clay.png	172	AC	minecraft:hardened_clay	Hardened Clay
+Block of Coal.png	173	AD	minecraft:coal_block	Block of Coal
+Packed Ice.png	174	AE	minecraft:packed_ice	Packed Ice
+Sunflower.png	175	AF	minecraft:double_plant	Large Flowers S B 
+Icon	Dec	Hex	Name	Block
+Free-standing Banner (Small).png	176	B0	minecraft:standing_banner	Standing Banner I S E
+Wall-mounted Banner (Small).png	177	B1	minecraft:wall_banner	Wall Banner I S E
+Inverted Daylight Sensor.png	178	B2	minecraft:daylight_detector_inverted	Inverted Daylight Sensor E
+Red Sandstone.png	179	B3	minecraft:red_sandstone	Red Sandstone S B
+Red Sandstone Stairs.png	180	B4	minecraft:red_sandstone_stairs	Red Sandstone Stairs S
+Red Sandstone.png	181	B5	minecraft:double_stone_slab2	Double Red Sandstone Slab S
+Red Sandstone Slab.png	182	B6	minecraft:stone_slab2	Red Sandstone Slab S
+Spruce Fence Gate (Closed).png	183	B7	minecraft:spruce_fence_gate	Spruce Fence Gate
+Birch Fence Gate (Closed).png	184	B8	minecraft:birch_fence_gate	Birch Fence Gate
+Jungle Fence Gate (Closed).png	185	B9	minecraft:jungle_fence_gate	Jungle Fence Gate
+Dark Oak Fence Gate (Closed).png	186	BA	minecraft:dark_oak_fence_gate	Dark Oak Fence Gate
+Acacia Fence Gate (Closed).png	187	BB	minecraft:acacia_fence_gate	Acacia Fence Gate
+Spruce Fence.png	188	BC	minecraft:spruce_fence	Spruce Fence
+Birch Fence.png	189	BD	minecraft:birch_fence	Birch Fence
+Jungle Fence.png	190	BE	minecraft:jungle_fence	Jungle Fence
+Dark Oak Fence.png	191	BF	minecraft:dark_oak_fence	Dark Oak Fence 
+Icon	Dec	Hex	Name	Block
+Acacia Fence.png	192	C0	minecraft:acacia_fence	Acacia Fence
+Spruce Door.png	193	C1	minecraft:spruce_door	Spruce Door I S
+Birch Door.png	194	C2	minecraft:birch_door	Birch Door I S
+Jungle Door.png	195	C3	minecraft:jungle_door	Jungle Door I S
+Acacia Door.png	196	C4	minecraft:acacia_door	Acacia Door I S
+Dark Oak Door.png	197	C5	minecraft:dark_oak_door
