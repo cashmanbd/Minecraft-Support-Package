@@ -9,6 +9,8 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ExecutorService;
 import net.minecraft.command.CommandHandler;
+import net.minecraft.command.ICommandManager;
+import net.minecraft.command.ServerCommandManager;
 import net.minecraft.init.Blocks;
 import net.minecraft.server.MinecraftServer;
 import net.minecraftforge.fml.common.Mod;
@@ -36,6 +38,9 @@ public class MatlabListener {
     @EventHandler
     public void registerCommands(FMLServerStartingEvent event) {
         minecraftServer = event.getServer();
+        ICommandManager command = minecraftServer.getCommandManager();
+        ServerCommandManager manager = (ServerCommandManager) command;
+        manager.registerCommand(new MatlabCommand());
     }
 
 //    class CommandSender implements Callable<Boolean> {
@@ -53,6 +58,15 @@ public class MatlabListener {
         public Boolean call() {
             boolean listen = true;
             try {
+                try {
+                    String envOverride = System.getenv("MW_MINECRAFT_LISTENING_PORT");
+                    if (envOverride != null) {
+                        port = Integer.parseInt(envOverride);
+                    }
+
+                } catch (Exception e) {
+                    // do nothing and use the default setting of port.
+                }
                 DatagramSocket socket = new DatagramSocket(port);
                 while(listen) {
                     byte[] buf = new byte[256];
